@@ -1,0 +1,7 @@
+name: hello-crystal
+version: 0.1.0
+
+authors:
+  - Jorge Díaz <jorgedf@gmail.com>
+
+license: MIT
